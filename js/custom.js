@@ -11,7 +11,7 @@ $(document).ready(function () {
         progressBar = $(".progress-bar"),
         // Typed Plugin
         typed = new Typed('.type', {
-            strings: ["Digital Marketing Expert", "Content Writing", "Affiliate Marketing"], /* Here Type Your Title */
+            strings: ["DevOps Engineer", "Cloud Services Specialist", "Backend Developer"], /* Here Type Your Title */
             typeSpeed: 100,
             loop: true,
             backDelay: 1200,
